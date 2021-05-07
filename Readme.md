@@ -4,4 +4,4 @@
   
   Es lo que usa la tecnologia
 
-![Texto alternativo]("C:\Users\deste\OneDrive\Imágenes\perfil1.PNG")
+![Screenshot](Imagenes\A.jpg)
