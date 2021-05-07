@@ -1,3 +1,7 @@
-# RETO SEMANA 1
-CONCEPTOS :
-Me gusta comer chocolate vdd
+# RETO SEMANA 1 #
+## CONCEPTOS : ##
+- Machine learning:
+  
+  Es lo que usa la tecnologia
+
+![Texto alternativo]("C:\Users\deste\OneDrive\Imágenes\perfil1.PNG")
