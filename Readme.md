@@ -89,6 +89,6 @@ Las geografias dentro de Azure son
 - _Distribución_ geográfica: puede implementar aplicaciones y datos en centros de datos regionales de todo el mundo, lo que garantiza que sus clientes siempre tendrán el mejor rendimiento de su región.
 - _Recuperación ante desastres_: al usar los servicios de copia de seguridad basados en la nube, la replicación de datos y la distribución geográfica, podrá implementar las aplicaciones con la seguridad de saber que los datos están protegidos en caso de que se produzca un desastre.
 
-
-![Screenshot](Imagenes\A.jpg) 
+ 
 ![](./Imagenes/A.jpg)
+En fin espero que te vaya bien viajero, ad astra per aspera.
